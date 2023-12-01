@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sikandar897" alt="sikandar897" /></a> </p>
 
-- 🌱 I’m currently learning **and adapting new trends and Technoliges**
+- 🌱 I’m currently learning **and adapting new trends and Technologies**
 
 - 👨‍💻 All of my projects are available at [https://sikandar-afridi-portfolio.netlify.app/](https://sikandar-afridi-portfolio.netlify.app/)
 
