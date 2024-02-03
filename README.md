@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello World! 👋,<br>I'm Sikandar Afridi, a Software Engineer and seasoned Fiverr Freelancer since '21, specializing in Flutter development 💻. Beyond coding, I bring extra skills in Graphic Designing, SEO, and WordPress. My passion lies in continuous learning and adapting to emerging tech trends. A self-driven learner, I navigate the tech world like a wolf 🐺, always eager for new challenges and growth opportunities.
+Hello World! 👋,<br>Its Alexender Flutter Developer with a solid background of over 1 year in crafting and maintaining cutting-edge mobile applications. 
+Adept at leveraging Flutter's expressive UI toolkit and reactive framework to deliver seamless cross-platform 
+experiences. Proficient in both frontend design and backend integration, I stay attuned to the latest Flutter 
+advancements and design patterns. Eager to further refine my skills and propel my career forward in the dynamic realm 
+of Flutter app development.
 
 
 ## 🌐 Socials:
