@@ -1,10 +1,8 @@
 # 💫 About Me:
-Hello World! 👋,<br>Its Alexender Flutter Developer at @logicsten with a solid background of over 1 year in crafting and maintaining cutting-edge mobile applications. 
+Hello World! 👋,<br>This is Alexender Flutter Developer with a solid background of more then one year in crafting and maintaining cutting-edge mobile applications. 
 Adept at leveraging Flutter's expressive UI toolkit and reactive framework to deliver seamless cross-platform 
-experiences. Proficient in both frontend design and backend integration, I stay attuned to the latest Flutter 
-advancements and design patterns. Eager to further refine my skills and propel my career forward in the dynamic realm 
+experiences. Proficient in both frontend design and backend integration, Eager to further refine my skills and propel my career forward in the dynamic realm 
 of Flutter app development.
-currently i am working on a service provider apps for a UK Companies TeleYork, IjWirless, zisfone and talkdaily.
 
 
 ## 🌐 Socials:
