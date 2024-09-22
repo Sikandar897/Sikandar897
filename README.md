@@ -2,7 +2,7 @@
 Hello World! 👋,<br>This is Alexender Flutter Developer with a solid background of more then one year in crafting and maintaining cutting-edge mobile applications. 
 Adept at leveraging Flutter's expressive UI toolkit and reactive framework to deliver seamless cross-platform 
 experiences. Proficient in both frontend design and backend integration, Eager to further refine my skills and propel my career forward in the dynamic realm 
-of Flutter app development.
+of Flutter app development. currently learning nodeJS for backend and mongoDb as a database. In Shah Allah journey to full stack Mobile app development.
 
 
 ## 🌐 Socials:
