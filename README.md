@@ -1,8 +1,6 @@
 # 💫 About Me:
-Hello World! 👋,<br>This is Alexender Flutter Developer with a solid background of three years in crafting and maintaining cutting-edge mobile applications. 
-Adept at leveraging Flutter's expressive UI toolkit and reactive framework to deliver seamless cross-platform 
-experiences. Proficient in both frontend design and backend integration, Eager to further refine my skills and propel my career forward in the dynamic realm 
-of Flutter app development. currently learning nodeJS for backend and mongoDb as a database. In Shah Allah journey to full stack Mobile app development.
+Full-stack Flutter developer building production-ready mobile apps with clean architecture, real time features, and seamless backend power (Node.js + MongoDB).
+From Google Maps tracking & live streaming to chats, sockets, in-app purchases, Stripe & PayPal — I ship complete solutions, not just UIs.
 
 
 ## 🌐 Socials:
